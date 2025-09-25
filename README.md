@@ -34,5 +34,5 @@ Before you can run this script, you need to have **Python 3** installed on your 
 The script will generate a file named **`headlines.txt`** in the same directory. This file will contain the scraped headlines, formatted with a title and blank lines between each headline for readability.
 
 ### Note
-**Web scraping should be done responsibly. Always check a website's robots.txt file and terms of service before scraping.
-**This script may break if The Hindu changes the HTML structure of its website. If no headlines are found, it is likely because the tags (h1, h2) or the class name (title) used to identify them have been updated on the site.
+*Web scraping should be done responsibly. Always check a website's robots.txt file and terms of service before scraping.
+*This script may break if The Hindu changes the HTML structure of its website. If no headlines are found, it is likely because the tags (h1, h2) or the class name (title) used to identify them have been updated on the site.
