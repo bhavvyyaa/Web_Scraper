@@ -14,8 +14,7 @@ Before you can run this script, you need to have **Python 3** installed on your 
 
 ## Installation
 
-1.  **Clone or download the repository** containing the script (`scraper.py`).
-2.  **Install the required libraries** using pip. Open your terminal or command prompt and run the following command:
+**Install the required libraries** using pip. Open your terminal or command prompt and run the following command:
     ```bash
     pip install requests beautifulsoup4
     ```
