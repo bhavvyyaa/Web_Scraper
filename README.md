@@ -35,4 +35,5 @@ The script will generate a file named **`headlines.txt`** in the same directory.
 
 ### Note
 *Web scraping should be done responsibly. Always check a website's robots.txt file and terms of service before scraping.
+
 *This script may break if The Hindu changes the HTML structure of its website. If no headlines are found, it is likely because the tags (h1, h2) or the class name (title) used to identify them have been updated on the site.
